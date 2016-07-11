@@ -23,7 +23,7 @@ LazyData: true
 biocViews: Software, FunctionalGenomics, SystemsBiology,
         GenePrediction, FunctionalPrediction, NetworkEnrichment,
         GraphAndNetwork, Network
-Author: Sara Ballouz Developer [aut, cre], Melanie Weber Developer
-        [aut, ctb], Paul Pavlidis Author [aut], Jesse Gillis Author
+Author: Sara Ballouz [aut, cre], Melanie Weber
+        [aut, ctb], Paul Pavlidis [aut], Jesse Gillis
         [aut, ctb]
 Maintainer: Sara Ballouz <sballouz@cshl.edu>
